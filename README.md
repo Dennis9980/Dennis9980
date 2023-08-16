@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Haloo semua 👋
+Perkenalkan nama saya **Dennis Havinanda**.\
+Saya seorang **Mahasiswa** di Universitas Telkom
 <!--
 **Dennis9980/Dennis9980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
