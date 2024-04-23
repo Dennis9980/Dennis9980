@@ -9,6 +9,8 @@ Saya seorang **Mahasiswa** di Universitas Telkom
 </a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennis9980&" alt="dennis9980" /></p>
+
 
 
 
